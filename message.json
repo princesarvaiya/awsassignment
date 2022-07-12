@@ -1,0 +1,50 @@
+  {
+    "ProductId": "c96b49bb-c378-4a15-b2e3-842a9850b23d",
+    "ProductName": "Kettle Bell",
+    "Category": "Gym",
+    "PricePerUnit": "160",
+    "CustomerId": "be44af0a-74f9-438e-a3ac-e3e21d84259f",
+    "CustomerName": "Prince Sarvaiya",
+    "TimeOfVisit": "2021-02-07T17:50:42.389Z" 
+  }
+
+
+{
+  "ProductId": "c96b49bb-c378-4a15-b2e3-842a9850b23d",
+  "ProductName": "iPhone",
+  "Category": "Phones",
+  "PricePerUnit": "1032",
+  "CustomerId": "b20f30ta-29d3-10f3-wov0-10c39a30sgfs",
+  "CustomerName": "Sarah Harris",
+  "TimeOfVisit": "2021-02-28T10:02:12.034Z" 
+}
+
+{
+  "ProductId": "c96b49bb-c378-4a15-b2e3-842a9850b23d",
+  "ProductName": "Jacket",
+  "Category": "Clothing",
+  "PricePerUnit": "189",
+  "CustomerId": "wf9s200a-72f4-42ge-pw0c-10f3jf03l59f",
+  "CustomerName": "Paul Jones",
+  "TimeOfVisit": "2021-02-15T19:13:32.314Z" 
+}
+
+{
+  "ProductId": "c96b49bb-c378-4a15-b2e3-842a9850b23d",
+  "ProductName": "Gloves",
+  "Category": "Accessories",
+  "PricePerUnit": "10",
+  "CustomerId": "be44af0a-74f9-438e-a3ac-e3e21d84259f",
+  "CustomerName": "John Doe",
+  "TimeOfVisit": "2021-01-31T16:23:42.389Z" 
+}
+
+  {
+    "ProductId": "c96b49bb-c378-4a15-b2e3-842a9850b23d",
+    "ProductName": "Mouse",
+    "Category": "Computing",
+    "PricePerUnit": "29.99",
+    "CustomerId": "be44af0a-74f9-438e-a3ac-e3e21d84259f",
+    "CustomerName": "Tom Walker",
+    "TimeOfVisit": "2021-02-22T8:01:21.389Z" 
+  }
